@@ -9,4 +9,9 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="text_Volume">Radio Volume</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Radio Dashboard</string>
+    <string name="title_notifications">Settings</string>
 </resources>
